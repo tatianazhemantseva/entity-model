@@ -27,7 +27,7 @@ https://www.kaggle.com/nodoubttome/skin-cancer9-classesisic
 
 Обучение модели: 
 1. Использование различных LR, optimizer(adam, sgd), activation(softmax, relu). 
-2. Использование других архитектур и/или их ансамблей (SOTA-решения): Xception, EfficientNetB4, InceptionV3, ResNet50, VGG19. Применение Fine-tuning c переносом обучения. 
+2. Использование других архитектур: Xception, EfficientNetB4, InceptionV3, ResNet50, VGG19. Применение Fine-tuning c переносом обучения. 
 3. Применение функций callback в Keras: ReduceLROnPlateau, ModelCheckpoint, EarlyStopping.
 4. softmax используется последней функцией активации нейронной сети , чтобы нормализовать выход сети к распределению вероятностей по предсказанным выходным классам.
 
