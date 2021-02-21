@@ -49,3 +49,5 @@ https://www.kaggle.com/nodoubttome/skin-cancer9-classesisic
 Рекомендованные ссылки:
 - для сохранения модели для прототипа
 https://medium.com/fintechexplained/how-to-save-trained-machine-learning-models-649c3ad1c018
+
+https://docs.streamlit.io/en/stable/getting_started.html
