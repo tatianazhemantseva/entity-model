@@ -40,13 +40,12 @@ https://www.kaggle.com/nodoubttome/skin-cancer9-classesisic
 - основной ноутбук с разработкой модели 23skin-clasification_diplom.ipynb
 - ноутбук с разработкой модели для сравнения 9skin-clasification_diplom.ipynb
 
-Рекомендованные ссылки:
-- для сохранения модели для прототипа
-https://medium.com/fintechexplained/how-to-save-trained-machine-learning-models-649c3ad1c018
-
-
 Значение метрики, которого удалось добиться 60%
 
 Что не получилось сделать так, как хотелось? Над чем ещё стоит поработать?
 Точность модели конечно разочаровала, попытки увеличить ее известными способами привели только к потере времени.
 Чтобы хотелось сделать еще - решить эту задачу с помощью сегментации и классификации (Self-Supervised Image Classification).
+
+Рекомендованные ссылки:
+- для сохранения модели для прототипа
+https://medium.com/fintechexplained/how-to-save-trained-machine-learning-models-649c3ad1c018
