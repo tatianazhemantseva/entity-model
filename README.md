@@ -40,6 +40,11 @@ https://www.kaggle.com/nodoubttome/skin-cancer9-classesisic
 - основной ноутбук с разработкой модели 23skin-clasification_diplom.ipynb
 - ноутбук с разработкой модели для сравнения 9skin-clasification_diplom.ipynb
 
+Рекомендованные ссылки:
+- для сохранения модели для прототипа
+https://medium.com/fintechexplained/how-to-save-trained-machine-learning-models-649c3ad1c018
+
+
 Значение метрики, которого удалось добиться 60%
 
 Что не получилось сделать так, как хотелось? Над чем ещё стоит поработать?
